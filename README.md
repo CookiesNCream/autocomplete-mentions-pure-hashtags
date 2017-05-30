@@ -1,0 +1,1 @@
+# autocomplete-mentions-pure-hashtags
