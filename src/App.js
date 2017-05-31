@@ -1,4 +1,4 @@
-/* By Linda Lim | Autocomplete Widget | BSD 3-Clause License | https://github.com/CookiesNCream/autocomplete-widget */
+/* By Linda Lim | Autocomplete Widget | BSD 3-Clause License | https://github.com/CookiesNCream/autocomplete-mentions-pure-hashtags */
 import 'draft-js/dist/Draft.css'; /* For editor and placeholder text styling */
 import './App.css'; /* For customized styles */
 import 'draft-js-hashtag-plugin/lib/plugin.css'; // eslint-disable-line import/no-unresolved
